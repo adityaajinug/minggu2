@@ -1,2 +1,2 @@
-#minggu2
+Struktur dasar PHP
 Pemrograman web 2 minggu 1 Aditya Ajie Nugroho | A22.2019.02756
